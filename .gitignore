@@ -1,0 +1,6 @@
+OAI_CONFIG_LIST
+workings/
+local_cache
+.cache
+.env
+*.jpg

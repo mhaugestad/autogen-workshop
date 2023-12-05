@@ -1,0 +1,2 @@
+pyautogen[retrievechat]~=0.2.0b5
+qdrant_client[fastembed]
